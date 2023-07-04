@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Srijan</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h1 align="left">Hi 👋, I'm Srijan</h1>
+<h3 align="left">A passionate Full Stack Developer</h3>
+
+<p align="left"> <img src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg" alt="srijan1231" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijan1231&label=Profile%20views&color=0e75b6&style=flat" alt="srijan1231" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijan1231" alt="srijan1231" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
