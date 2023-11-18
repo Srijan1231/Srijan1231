@@ -1,4 +1,17 @@
+<h1 align="center">Hi 👋, I'm Srijan Dahal</h1>
+<h3 align="center">A passionate FULL STACK DEVELOPER,SOFTRWARE ENGINEER</h3>
 
+- 🔭 I’m currently working on **Library Management System using Nextjs**
+
+- 🌱 I’m currently learning **Nextjs, Prisma**
+
+- 👨‍💻 All of my projects are available at [srijandahal.com](srijandahal.com)
+
+- 💬 Ask me about **React, Nodejs, MongoDB**
+
+- 📫 How to reach me **srijan.pdh12@gmail.com**
+
+- ⚡ Fun fact **I love coding and making new friends.**
 
 
 # 💻 Tech Stack:
