@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Prisma**
 
-- 👨‍💻 All of my projects are available at [srijandahal.com](www.srijandahal.com)
+- 👨‍💻 All of my projects are available at [[srijandahal.com](https://www.srijandahal.com/)](www.srijandahal.com)
 
 - 💬 Ask me about **React, Nodejs, MongoDB**
 
